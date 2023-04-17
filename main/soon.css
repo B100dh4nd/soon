@@ -869,3 +869,7 @@ body #app-mount .quickSelectPopout-2F0PXw>.quickSelectPopoutOption-2E2UmS:hover{
 .voiceUser-3nRK-K .content-1Tgc42 .userAvatar-3Hwf1F {
   border-radius:var(--rs-avatar-shape)!important;
 }
+
+.tooltip-33Jwqe {
+    backdrop-filter: blur(15px);
+}
