@@ -1,4 +1,4 @@
-<h1 align="center">BETTERDISCORD DEVS, PLEASE APPROVE MY RECENT UPDATES, AS THEY ARE **MANDATORY** FOR THE THEME TO WORK BECAUSE I CHANGED MY GITHUB USERNAME. THE UPDATE BEFORE THIS ONE JUST CHANGES THE IMPORTS SO THE THEME CAN WORK. PLEASE ACCEPT IT. THANKS!</h1>
+<h1 align="center">I have stopped working on this theme. Somebody else is maintaining it. https://github.com/lilytistic/soon</h1>
 
 
 <h1 align="center">Soon</h1>
