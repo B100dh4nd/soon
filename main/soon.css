@@ -651,8 +651,8 @@ Do Not Touch.
 .giftCodeContainer-3ObH0O .description-X8_53U {
   background-color: #1e1b25;
 }
-.tooltip-14MtrL{
-  backdrop-filter: blur(15px);
+.tooltip-33Jwqe, .popout-TdhJ6Z {
+    backdrop-filter: blur(15px);
 }
 
 /* ChannelTabs Compatibility */
@@ -868,4 +868,8 @@ body #app-mount .quickSelectPopout-2F0PXw>.quickSelectPopoutOption-2E2UmS:hover{
 /* Voice Chat PFPs */
 .voiceUser-3nRK-K .content-1Tgc42 .userAvatar-3Hwf1F {
   border-radius:var(--rs-avatar-shape)!important;
+}
+
+.tooltip-33Jwqe {
+    backdrop-filter: blur(15px);
 }

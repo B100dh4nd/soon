@@ -1,3 +1,6 @@
+<h1 align="center">I have stopped working on this theme. Somebody else is maintaining it. https://github.com/lilytistic/soon</h1>
+
+
 <h1 align="center">Soon</h1>
 <p align="center">
   <a href="#installation">installation</a> |
